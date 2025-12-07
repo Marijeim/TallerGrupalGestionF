@@ -1,2 +1,3 @@
 # TallerGrupalGestionF
-# Ingreso de los primeros cambios al readme
+# Cambios resueltos combinados sin problemas
+
