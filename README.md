@@ -1,2 +1,3 @@
 # TallerGrupalGestionF
-# Segundos cambios hay problemas????
+# Cambios resueltos combinados sin problemas
+
